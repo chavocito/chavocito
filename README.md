@@ -1,4 +1,4 @@
-# Hi, I'm Francis 'Chavocito' Bota 👋
+# Hi, I'm 'Chavocito' Bota 👋
 
 I'm a developer with more spotify playlists than repositories(because I have 3 playlists for every repository). I enjoy collaborating and am always eager to learn new things.
 
