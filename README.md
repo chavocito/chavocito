@@ -25,6 +25,6 @@ Feel free to reach out for collaboration, questions, or just to say hi!
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)](https://github.com/chavocito)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chavocito&show_icons=true&theme=dark)](https://github.com/chavocito)
 
 Thanks for visiting my GitHub profile. Have a great day! 😊
